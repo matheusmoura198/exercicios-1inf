@@ -65,7 +65,7 @@ if( estoque >= quantidade ){
     console.log("Pedido não pode ser finalizado por falta de estoque.")
 }
 
-const resumo = `${cliente} realizou a compra de um ${produto} pagando R$ ${preco} e obtendo R$ ${troco} de troco`
+const resumo = `${cliente} realizou a compra de um ${produto} pagando R$ ${valorPago} e obtendo R$ ${troco} de troco`
 
 console.log(`
     cliente: ${cliente}
