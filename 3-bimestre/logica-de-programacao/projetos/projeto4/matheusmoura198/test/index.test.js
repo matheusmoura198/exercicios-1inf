@@ -7,7 +7,7 @@ const {
     prato,
     precoUnitario,
     subtotal,
-    freteStatus,
+    freteSatus,
     frete,
     pagamentoMensagem,
     descontoPercentual,
